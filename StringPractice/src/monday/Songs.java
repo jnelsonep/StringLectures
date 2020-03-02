@@ -3,6 +3,8 @@ package monday;
 public class Songs {
 	// the variables we are going to use.
 	
+	
+	
 	public static String helloSong = "Hello, it's me\n" + 
 			"I was wondering if after all these years you'd like to meet\n" + 
 			"To go over everything\n" + 
