@@ -1,11 +1,8 @@
 package monday;
 
 public class Songs {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-	}
+	// the variables we are going to use.
+	
 	public static String helloSong = "Hello, it's me\n" + 
 			"I was wondering if after all these years you'd like to meet\n" + 
 			"To go over everything\n" + 
